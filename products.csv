@@ -1,0 +1,60 @@
+product_id,product_name,category_id,price,stock_quantity,description
+1,Samsung Galaxy S23,1,74999,77,Smartphone with 128GB storage
+2,iPhone 14,1,79900,139,Apple smartphone with A15 chip
+3,OnePlus Nord,1,29999,135,Mid-range 5G smartphone
+4,Sony Headphones,1,2999,74,Wireless headphones
+5,JBL Speaker,1,3499,23,Bluetooth portable speaker
+6,Dell Laptop,1,55000,33,Intel i5 laptop with 8GB RAM
+7,HP Printer,1,8999,172,All-in-one color printer
+8,"Samsung TV 43""",1,35000,118,Smart LED TV
+9,Mi Band 7,1,2799,80,Fitness tracker
+10,Canon Camera,1,45000,21,DSLR camera with lens
+11,Mens Formal Shirt,2,899,10,Cotton formal shirt
+12,Ladies Kurti,2,599,95,Designer kurti
+13,Jeans,2,1299,43,Slim fit denim jeans
+14,T-Shirt,2,399,173,Round neck cotton t-shirt
+15,Saree,2,1999,77,Traditional silk saree
+16,Jacket,2,2499,51,Winter jacket
+17,Shoes,2,1899,199,Casual sports shoes
+18,Watch,2,3999,123,Analog wrist watch
+19,Sunglasses,2,799,151,UV protection sunglasses
+20,Belt,2,499,190,Leather belt
+21,Rich Dad Poor Dad,3,299,119,Finance book
+22,The Alchemist,3,250,153,Novel by Paulo Coelho
+23,Atomic Habits,3,399,12,Self-help book
+24,Wings of Fire,3,199,38,APJ Abdul Kalam autobiography
+25,Harry Potter Set,3,2999,29,Complete book series
+26,Think and Grow Rich,3,299,186,Personal development
+27,Mixer Grinder,4,3499,48,750W with 3 jars
+28,Pressure Cooker,4,1899,149,5 litre aluminum
+29,Microwave Oven,4,8999,19,20L capacity
+30,Water Purifier,4,12999,104,RO + UV purifier
+31,Vacuum Cleaner,4,6999,159,Bagless vacuum cleaner
+32,Air Fryer,4,4999,151,Oil-free cooking
+33,Cricket Bat,5,2500,47,English willow bat
+34,Football,5,799,120,FIFA approved
+35,Badminton Racket,5,1299,42,Professional racket
+36,Yoga Mat,5,499,20,Anti-slip exercise mat
+37,Dumbbells 5kg,5,899,88,Pair of dumbbells
+38,Cycling Gloves,5,399,103,Half finger gloves
+39,Face Cream,6,599,20,Moisturizing cream
+40,Shampoo,6,299,101,Anti-dandruff shampoo
+41,Perfume,6,1999,63,Long lasting fragrance
+42,Lipstick,6,499,184,Matte finish lipstick
+43,Hair Dryer,6,1499,73,1200W hair dryer
+44,Remote Control Car,7,1299,180,RC toy car
+45,Lego Set,7,2499,36,Building blocks
+46,Barbie Doll,7,799,100,Fashion doll
+47,Board Game,7,599,153,Family board game
+48,Office Chair,8,4999,114,Ergonomic chair
+49,Study Table,8,5999,168,Wooden study table
+50,Bookshelf,8,3499,49,5-tier bookshelf
+51,Sofa Set,8,25999,70,3+1+1 seater sofa
+52,Rice 10kg,9,599,51,Basmati rice
+53,Cooking Oil 5L,9,899,55,Refined oil
+54,Tea 1kg,9,399,115,Premium tea leaves
+55,Sugar 5kg,9,249,16,White sugar
+56,Car Mobile Holder,10,299,55,Universal holder
+57,Bike Cover,10,499,198,Waterproof cover
+58,Car Vacuum,10,1999,95,Portable vacuum
+59,Helmet,10,1299,115,Full face helmet

@@ -1,0 +1,81 @@
+payment_id,order_id,payment_date,payment_method,amount,status
+1,1,04-03-2024 08:20,Credit Card,19435.82,Completed
+2,2,30-04-2024 07:16,Wallet,17808.09,Failed
+3,3,27-02-2024 00:46,Wallet,20224.07,Completed
+4,4,18-01-2024 08:24,Net Banking,34136.15,Pending
+5,5,25-03-2024 00:09,Net Banking,9339.11,Completed
+6,6,10-01-2024 03:41,Wallet,17611.51,Failed
+7,7,21-04-2024 19:33,Credit Card,19567.17,Completed
+8,8,18-02-2024 08:08,Credit Card,583.72,Failed
+9,9,24-06-2024 23:53,UPI,18528.96,Completed
+10,10,19-06-2024 10:46,Debit Card,33337.68,Completed
+11,11,17-03-2024 16:23,Cash on Delivery,16646.05,Failed
+12,12,16-03-2024 17:18,Wallet,21312.09,Completed
+13,13,23-06-2024 00:00,Debit Card,30967.99,Completed
+14,14,13-04-2024 17:56,Credit Card,15541.81,Completed
+15,15,20-04-2024 18:48,Net Banking,23516.92,Completed
+16,16,21-06-2024 06:42,Wallet,39789.9,Pending
+17,17,13-02-2024 21:13,Cash on Delivery,26014.87,Completed
+18,18,07-06-2024 10:08,Debit Card,33803.39,Completed
+19,19,20-02-2024 04:09,Wallet,12619.71,Completed
+20,20,05-06-2024 02:34,Net Banking,44363.78,Failed
+21,21,19-02-2024 22:45,Net Banking,24971.67,Failed
+22,22,07-02-2024 20:53,Debit Card,44686.66,Completed
+23,23,28-01-2024 13:16,Net Banking,40303.44,Completed
+24,24,12-05-2024 14:09,Cash on Delivery,45914.77,Completed
+25,25,26-04-2024 04:56,Wallet,33545.1,Failed
+26,26,01-06-2024 10:53,Net Banking,30826.29,Failed
+27,27,09-05-2024 13:57,Net Banking,44911.8,Failed
+28,28,01-05-2024 14:18,Debit Card,42073.21,Completed
+29,29,13-05-2024 15:47,Cash on Delivery,14092.57,Completed
+30,30,14-03-2024 07:23,Cash on Delivery,16325.62,Completed
+31,31,21-01-2024 04:14,Wallet,19460.25,Completed
+32,32,29-06-2024 06:09,Credit Card,20676.17,Failed
+33,33,29-04-2024 13:08,Credit Card,41728.11,Completed
+34,34,29-05-2024 22:11,Wallet,24110.5,Pending
+35,35,17-03-2024 13:04,Wallet,27141.92,Failed
+36,36,19-05-2024 20:02,Debit Card,24667.36,Completed
+37,37,21-04-2024 15:11,UPI,17138.41,Pending
+38,38,13-04-2024 23:14,Cash on Delivery,46017.31,Failed
+39,39,16-05-2024 01:01,Wallet,29798.69,Pending
+40,40,07-01-2024 02:42,UPI,7217.12,Failed
+41,41,16-02-2024 01:17,Cash on Delivery,16703.96,Failed
+42,42,24-03-2024 10:51,Credit Card,14273.7,Failed
+43,43,05-03-2024 02:36,Wallet,37576.7,Completed
+44,44,30-03-2024 07:48,Debit Card,39171.04,Completed
+45,45,11-01-2024 00:19,Debit Card,42041.83,Completed
+46,46,09-02-2024 07:17,UPI,33638.21,Failed
+47,47,25-02-2024 14:47,UPI,38461.46,Completed
+48,48,04-06-2024 19:55,UPI,39000.7,Completed
+49,49,20-03-2024 03:43,Credit Card,46479.91,Completed
+50,50,22-06-2024 12:33,Credit Card,4261.83,Completed
+51,51,09-06-2024 07:09,Debit Card,42589.52,Completed
+52,52,31-01-2024 18:57,Cash on Delivery,17686.59,Completed
+53,53,18-06-2024 11:10,Credit Card,1126.28,Completed
+54,54,05-05-2024 03:34,Credit Card,31961.46,Completed
+55,55,09-02-2024 13:16,Cash on Delivery,30987.66,Completed
+56,56,03-05-2024 14:29,Net Banking,16454.08,Completed
+57,57,23-01-2024 09:02,Wallet,12571.24,Failed
+58,58,25-05-2024 19:52,Net Banking,17151.63,Failed
+59,59,24-03-2024 05:33,Wallet,18063.84,Completed
+60,60,28-03-2024 09:00,Net Banking,28011.66,Completed
+61,61,18-02-2024 02:16,Cash on Delivery,24684.6,Failed
+62,62,02-03-2024 22:40,Debit Card,22684.64,Pending
+63,63,24-01-2024 09:22,Wallet,34743.46,Failed
+64,64,18-06-2024 18:30,Credit Card,27896.91,Pending
+65,65,18-04-2024 23:36,Credit Card,17914.62,Completed
+66,66,10-03-2024 09:21,Net Banking,6472.47,Completed
+67,67,21-03-2024 03:49,Credit Card,9981.28,Completed
+68,68,03-05-2024 08:50,Cash on Delivery,49035.28,Completed
+69,69,16-03-2024 07:26,Net Banking,15462.25,Completed
+70,70,16-05-2024 04:25,UPI,48727.6,Completed
+71,71,15-03-2024 22:17,Net Banking,5578.09,Pending
+72,72,26-05-2024 09:37,Wallet,22303.21,Pending
+73,73,14-01-2024 09:03,Cash on Delivery,6147.31,Failed
+74,74,12-04-2024 15:09,Credit Card,8010.49,Completed
+75,75,18-03-2024 02:21,Debit Card,28124.62,Completed
+76,76,04-06-2024 19:58,Net Banking,38896.83,Completed
+77,77,25-04-2024 14:23,UPI,15616.32,Pending
+78,78,16-01-2024 19:53,Cash on Delivery,47405.71,Completed
+79,79,09-06-2024 06:22,Credit Card,8274.33,Completed
+80,80,21-05-2024 02:17,UPI,20721.62,Completed

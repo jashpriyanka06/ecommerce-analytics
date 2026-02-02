@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone,address,city,state,pincode,registration_date
+1,Nikhil,Patel,nikhil.patel1@email.com,9876513278,760 Main Road,Hyderabad,Telangana,334053,05-02-2024
+2,Mansi,Patel,mansi.patel2@email.com,9876598696,759 MG Road,Lucknow,Uttar Pradesh,542417,09-01-2024
+3,Rahul,Kumar,rahul.kumar3@email.com,9876538657,239 MG Road,Jaipur,Rajasthan,308496,15-06-2024
+4,Akash,Desai,akash.desai4@email.com,9876564987,226 Station Road,Lucknow,Uttar Pradesh,391704,02-01-2024
+5,Rajat,Gupta,rajat.gupta5@email.com,9876565392,349 Main Road,Bangalore,Karnataka,325772,27-03-2024
+6,Sneha,Kumar,sneha.kumar6@email.com,9876559797,100 Main Road,Chennai,Tamil Nadu,733052,08-03-2024
+7,Tanvi,Singh,tanvi.singh7@email.com,9876570217,550 MG Road,Kolkata,West Bengal,182627,21-05-2024
+8,Neha,Kapoor,neha.kapoor8@email.com,9876557400,592 Park Street,Delhi,Delhi,148050,18-06-2024
+9,Pooja,Chopra,pooja.chopra9@email.com,9876520458,876 Park Street,Delhi,Delhi,498591,12-03-2024
+10,Siddharth,Agarwal,siddharth.agarwal10@email.com,9876531319,380 Main Road,Hyderabad,Telangana,802729,09-03-2024
+11,Akash,Kumar,akash.kumar11@email.com,9876589840,651 Park Street,Jaipur,Rajasthan,864544,03-03-2024
+12,Ananya,Pandey,ananya.pandey12@email.com,9876559735,277 Park Street,Chennai,Tamil Nadu,983794,15-01-2024
+13,Pooja,Singh,pooja.singh13@email.com,9876551347,411 Main Road,Delhi,Delhi,321231,25-05-2024
+14,Kunal,Malhotra,kunal.malhotra14@email.com,9876537869,672 Station Road,Kolkata,West Bengal,774079,27-04-2024
+15,Vikram,Mehta,vikram.mehta15@email.com,9876528301,253 Main Road,Lucknow,Uttar Pradesh,549245,29-05-2024
+16,Aditya,Agarwal,aditya.agarwal16@email.com,9876538746,142 Station Road,Delhi,Delhi,892495,13-01-2024
+17,Nisha,Patel,nisha.patel17@email.com,9876530033,643 Park Street,Kolkata,West Bengal,725380,17-01-2024
+18,Aditya,Iyer,aditya.iyer18@email.com,9876588104,480 Main Road,Jaipur,Rajasthan,112038,23-06-2024
+19,Mansi,Patel,mansi.patel19@email.com,9876599353,907 Main Road,Chennai,Tamil Nadu,216970,16-03-2024
+20,Riya,Gupta,riya.gupta20@email.com,9876569470,4 Main Road,Jaipur,Rajasthan,898975,15-02-2024
+21,Varun,Patel,varun.patel21@email.com,9876591959,306 Park Street,Bangalore,Karnataka,492077,11-02-2024
+22,Diya,Rao,diya.rao22@email.com,9876510074,614 Main Road,Pune,Maharashtra,120422,29-01-2024
+23,Simran,Agarwal,simran.agarwal23@email.com,9876550306,246 MG Road,Hyderabad,Telangana,694916,21-01-2024
+24,Amit,Saxena,amit.saxena24@email.com,9876519071,779 Park Street,Bangalore,Karnataka,791798,01-05-2024
+25,Diya,Gupta,diya.gupta25@email.com,9876544741,541 Station Road,Hyderabad,Telangana,665492,25-06-2024
+26,Rohan,Chopra,rohan.chopra26@email.com,9876562296,688 Main Road,Pune,Maharashtra,642717,25-04-2024
+27,Sneha,Joshi,sneha.joshi27@email.com,9876539451,66 Main Road,Mumbai,Maharashtra,716886,21-05-2024
+28,Pooja,Shah,pooja.shah28@email.com,9876538864,8 MG Road,Mumbai,Maharashtra,340062,18-01-2024
+29,Kunal,Singh,kunal.singh29@email.com,9876553309,73 Park Street,Ahmedabad,Gujarat,801474,04-05-2024
+30,Rohan,Desai,rohan.desai30@email.com,9876527342,741 Station Road,Hyderabad,Telangana,922733,01-05-2024
+31,Tanvi,Nair,tanvi.nair31@email.com,9876534957,97 MG Road,Kolkata,West Bengal,471507,18-04-2024
+32,Riya,Pandey,riya.pandey32@email.com,9876517100,690 MG Road,Mumbai,Maharashtra,522179,27-03-2024
+33,Tanvi,Patel,tanvi.patel33@email.com,9876542591,197 Park Street,Jaipur,Rajasthan,570405,05-02-2024
+34,Riya,Gupta,riya.gupta34@email.com,9876546509,474 Park Street,Delhi,Delhi,564656,20-05-2024
+35,Sneha,Singh,sneha.singh35@email.com,9876595477,554 MG Road,Delhi,Delhi,890170,01-03-2024
+36,Ananya,Nair,ananya.nair36@email.com,9876573653,493 Park Street,Kolkata,West Bengal,161483,12-02-2024
+37,Aditya,Sharma,aditya.sharma37@email.com,9876561173,272 Station Road,Ahmedabad,Gujarat,543555,27-06-2024
+38,Mansi,Desai,mansi.desai38@email.com,9876596752,736 Station Road,Bangalore,Karnataka,299122,16-03-2024
+39,Rohan,Singh,rohan.singh39@email.com,9876585914,754 MG Road,Chennai,Tamil Nadu,159942,13-01-2024
+40,Harsh,Saxena,harsh.saxena40@email.com,9876575909,942 Park Street,Mumbai,Maharashtra,632496,21-01-2024
+41,Nisha,Gupta,nisha.gupta41@email.com,9876518981,610 MG Road,Hyderabad,Telangana,523389,31-01-2024
+42,Kunal,Shah,kunal.shah42@email.com,9876542271,593 MG Road,Lucknow,Uttar Pradesh,185965,17-04-2024
+43,Shreya,Shah,shreya.shah43@email.com,9876584085,536 Main Road,Ahmedabad,Gujarat,314181,20-06-2024
+44,Akash,Malhotra,akash.malhotra44@email.com,9876541285,272 Station Road,Bangalore,Karnataka,804318,14-06-2024
+45,Neha,Pandey,neha.pandey45@email.com,9876551441,952 MG Road,Mumbai,Maharashtra,580547,08-06-2024
+46,Harsh,Patel,harsh.patel46@email.com,9876519602,551 Park Street,Jaipur,Rajasthan,378082,03-02-2024
+47,Simran,Agarwal,simran.agarwal47@email.com,9876519016,901 Park Street,Chennai,Tamil Nadu,398830,10-02-2024
+48,Siddharth,Desai,siddharth.desai48@email.com,9876549651,627 MG Road,Jaipur,Rajasthan,413921,18-06-2024
+49,Sneha,Reddy,sneha.reddy49@email.com,9876544664,119 MG Road,Jaipur,Rajasthan,262998,10-03-2024
+50,Neha,Kapoor,neha.kapoor50@email.com,9876537607,735 Main Road,Hyderabad,Telangana,820892,11-06-2024
